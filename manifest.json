@@ -1,0 +1,9 @@
+{
+  "name": "# REPO_Українізатор",
+  "version_number": "1.0.0",
+  "website_url": "",
+  "description": "[Українізатор]Simple translator for R.E.P.O.",
+  "dependencies": [
+    "BepInEx-BepInExPack-5.4.2100"
+  ]
+}
