@@ -11,4 +11,5 @@
 
 ## ДЯКУЮ!
 [Tolian](https://thunderstore.io/c/repo/p/Tolian/) - дуже допоміг і в буквальному сенсі довів сюди за ручку
+
 [QERT2002](https://thunderstore.io/c/repo/p/QERT2002/) - за початковий код
